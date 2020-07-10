@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#### Deployed the project at this link [covid19tracks.netlify.app/](https://covid19tracks.netlify.app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
