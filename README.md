@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Global (Past 100 days)
 ![screencapture-covid19tracks-netlify-app-2021-03-02-20_30_45](https://user-images.githubusercontent.com/37058105/109667594-4f427b80-7b96-11eb-8d75-07415550323f.png)
+
+Global Infected
+![screencapture-covid19tracks-netlify-app-2021-03-02-20_38_14](https://user-images.githubusercontent.com/37058105/109668502-3f776700-7b97-11eb-998d-b53160d4803d.png)
+
+Global Deaths
+![screencapture-covid19tracks-netlify-app-2021-03-02-20_36_21](https://user-images.githubusercontent.com/37058105/109668325-135be600-7b97-11eb-8472-33e89ee1ad63.png)
+
+Country-wise data
+![screencapture-covid19tracks-netlify-app-2021-03-02-20_34_56](https://user-images.githubusercontent.com/37058105/109668058-c710a600-7b96-11eb-8244-19d27c08d144.png)
+
 
 ## Deployment
 
