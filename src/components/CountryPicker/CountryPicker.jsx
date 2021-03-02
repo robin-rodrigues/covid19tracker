@@ -16,12 +16,12 @@ const CountryPicker = ({ handleCountryChange }) => {
         fetchedAPI();
     }, [setFetchedCountries]);
 
-    console.log(fetchedCountries);
+    //console.log(fetchedCountries);
 
     return(
         <FormControl className={styles.formControl}>
             <NativeSelect default="" onChange={(e) => handleCountryChange(e.target.value)} >
-                <option value="">Global</option>
+                <option value="">Global (Past 100 days)</option>
                 {fetchedCountries.map((country,i) => <option key={i} value={country}>{country}</option>)}
             </NativeSelect>
         </FormControl>
